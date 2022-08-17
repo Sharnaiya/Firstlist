@@ -3,3 +3,6 @@ conditioner
 body wash
 hello
 git status
+BABY
+DOG
+HAND
