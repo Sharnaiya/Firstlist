@@ -1,3 +1,5 @@
 shampoo
 conditioner
 body wash
+hello
+git status
